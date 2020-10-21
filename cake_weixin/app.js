@@ -35,8 +35,7 @@ App({
     })
   },
   globalData: {
-    // baseUrl:"http://127.0.0.1:3002",
-      baseUrl:"http://172.81.238.103:3002",
+    baseUrl:"http://127.0.0.1:3002",
     userInfo: {},
   }
 })
